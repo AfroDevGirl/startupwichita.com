@@ -6,4 +6,7 @@ env:
 services:
   - mongodb
 notifications:
-  irc: "chat.freenode.net#devict"
+  email:
+    - chaines@gmail.com
+  irc:
+    - "irc.freenode.org#devict"
