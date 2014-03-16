@@ -9,9 +9,7 @@ notifications:
   email:
     recipients:
       - chaines@gmail.com
-  irc:
-    channels:
-      - "irc.freenode.org#devict"
+  irc: "chat.freenode.net#devict"
   slack: thelaborparty:F8sIulfJ68UaZ3NhteTx1mu7
   on_success: always # [always|never|change] # default: change
   on_failure: always # [always|never|change] # default: always
