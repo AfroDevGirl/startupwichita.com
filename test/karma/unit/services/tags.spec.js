@@ -1,9 +1,7 @@
 (function() {
     'use strict';
 
-    // Tags Controller Spec
     describe('startupwichita services', function () {
-        // Load the startupwichita module
         beforeEach(module('startupwichita'));
 
         describe('tagsService', function () {
